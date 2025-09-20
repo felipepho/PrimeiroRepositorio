@@ -1,2 +1,5 @@
 # PrimeiroRepositorio
-Repositorio criado para teste
+
+Repositorio criado para testes do curso em vídeo
+
+Apenas para estudo
